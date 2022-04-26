@@ -1,5 +1,8 @@
-# EHR Reading Course
-Materials for Winter 2022 reading course.
+# Statistical Methods for the Analysis of EHR data
+
+## Overview
+
+This course aims to provide an introduction to the challenges and benefits of working with data from electronic health records (EHRs).  As a starting point, we will consider the fundamental problem of phenotyping and the associated statisical challenges.  We will then go through the understudied field of positive-unlabeled (PU) learning and run simulation studies for a new method for high-dimensional regression in the PU setting.   
 
 
 | Week | Assignment                            |
@@ -17,3 +20,10 @@ Materials for Winter 2022 reading course.
 | 11   | SAPUL Regression Simulations                                       |
 | 12   |SAPUL Regression Simulations                                      |
 | 13   | SAPUL Regression Simulations                                        |
+
+
+## Overview
+
+In weeks 1-6, articles will be assigned and written reflection is required.  Guidance on how to read and responde to an academic paper can be found here.
+
+In weeks 7-13, you will be responsible for understanding a new method for high-dimensional regression in the PU setting and running simulation studies to better understand its performance.  You will be given code to implement the method.   
