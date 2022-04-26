@@ -24,6 +24,6 @@ This course aims to provide an introduction to the challenges and benefits of wo
 
 ## Overview
 
-In weeks 1-6, articles will be assigned and written reflection is required.  Guidance on how to read and responde to an academic paper can be found here.
+In weeks 1-6, articles will be assigned and written reflection is required.  Guidance on how to read and responde to an academic paper can be found [here](https://github.com/jlgrons/EHR_Reading_Course/tree/main/Article%20Reviews).
 
-In weeks 7-13, you will be responsible for understanding a new method for high-dimensional regression in the PU setting and running simulation studies to better understand its performance.  You will be given code to implement the method.   
+In weeks 7-13, you will be responsible for understanding a new method for high-dimensional regression in the PU setting and running simulation studies to better understand its performance.  You will be given code to implement the method which can be found [here](https://github.com/jlgrons/EHR_Reading_Course/tree/main/SAPUL).   
