@@ -1,6 +1,6 @@
 # Statistical Methods for the Analysis of EHR data
 
-## Overview
+## Overview (Winter 2022)
 
 This course aims to provide an introduction to the challenges and benefits of working with data from electronic health records (EHRs).  As a starting point, we will consider the fundamental problem of phenotyping and the associated statisical challenges.  We will then go through the basics of positive-unlabeled (PU) learning and run simulation studies for a new method I have developed for high-dimensional regression in the PU setting (SAPUL).   
 
