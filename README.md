@@ -1,4 +1,4 @@
-# Statistical Methods for the Analysis of EHR data
+# Statistical learning with EHR data
 
 ## Overview (Winter 2022)
 
